@@ -5,7 +5,7 @@ Top Module:
 
 Synthesizing:
 <p align="center">
-  <img width="600" height="400" src="![photo_2023-09-15_19-17-08](https://github.com/Mohamedfares10/2_Sequance_Detector_Checker/assets/132834702/1069e974-acdf-4d18-9a47-95a3faf8f0fd)">
+  <img width="600" height="400" src="https://github.com/Mohamedfares10/2_Sequance_Detector_Checker/assets/132834702/1069e974-acdf-4d18-9a47-95a3faf8f0fd">
 </p>
 
 
